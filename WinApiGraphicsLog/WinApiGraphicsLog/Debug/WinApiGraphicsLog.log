@@ -1,0 +1,7 @@
+﻿  WinApiGraphicsLog.cpp
+e:\documents\аип\winapigraphicslog\winapigraphicslog\winapigraphicslog.cpp(52): warning C4101: hPen: неиспользованная локальная переменная
+e:\documents\аип\winapigraphicslog\winapigraphicslog\winapigraphicslog.cpp(55): warning C4101: x_scr: неиспользованная локальная переменная
+e:\documents\аип\winapigraphicslog\winapigraphicslog\winapigraphicslog.cpp(56): warning C4101: x: неиспользованная локальная переменная
+e:\documents\аип\winapigraphicslog\winapigraphicslog\winapigraphicslog.cpp(56): warning C4101: h: неиспользованная локальная переменная
+e:\documents\аип\winapigraphicslog\winapigraphicslog\winapigraphicslog.cpp(55): warning C4101: y_scr: неиспользованная локальная переменная
+  WinApiGraphicsLog.vcxproj -> E:\Documents\АИП\WinApiGraphicsLog\Debug\WinApiGraphicsLog.exe
